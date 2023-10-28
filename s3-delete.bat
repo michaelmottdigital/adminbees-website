@@ -1,0 +1,1 @@
+aws s3 rm s3://adminbees.com/ --recursive

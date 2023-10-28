@@ -1,0 +1,8 @@
+<Accordian class="text-3xl">
+                    <template v-slot:question>
+                        Question
+                    </template>
+                    <template v-slot:answer>
+                        Answer is here
+                    </template>  
+                </Accordian>
